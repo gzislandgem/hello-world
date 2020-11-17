@@ -1,4 +1,4 @@
 # hello-world
-A new learning adventure
+A new learning adventure. 
 Hello again!
 
